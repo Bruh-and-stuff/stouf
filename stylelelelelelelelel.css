@@ -1,0 +1,22 @@
+body{
+    background-image: "bg.webp";
+}
+.main-div{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    top: 0;
+    box-shadow: 0px 10px 25px black;
+}
+#title{
+    font-size: 30px;
+}
+.htu{
+}
+
+canvas{
+    box-shadow: 0px 0px 15px white;
+    border-color: white;
+    border-radius: 35px;
+    border-width: 5px;
+}
